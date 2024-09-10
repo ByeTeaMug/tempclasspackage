@@ -7,6 +7,7 @@ public class TempClassCore
 {
     public int value;
     public float alt;
+    public float alt2;
 }
 
 public class TempClass : MonoBehaviour
