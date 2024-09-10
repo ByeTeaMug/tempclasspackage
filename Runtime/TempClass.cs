@@ -6,6 +6,7 @@ using UnityEngine.PlayerLoop;
 public class TempClassCore
 {
     public int value;
+    public float alt;
 }
 
 public class TempClass : MonoBehaviour
